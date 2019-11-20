@@ -1,0 +1,18 @@
+2019-11-14 08:14:24,964 - ERROR - Fail to find element: UserName
+2019-11-14 08:14:24,964 - ERROR - Fail to send the key to : UserName
+2019-11-14 08:14:27,007 - ERROR - Fail to find element: Password
+2019-11-14 08:14:27,007 - ERROR - Fail to send the key to : Password
+2019-11-14 08:14:29,048 - ERROR - Fail to find element: LogIn Button
+2019-11-14 08:14:29,048 - ERROR - Fail to click : LogIn Button
+ERROR:root:Fail to find element: UserName
+ERROR:root:Fail to send the key to : UserName
+ERROR:root:Fail to find element: Password
+ERROR:root:Fail to send the key to : Password
+ERROR:root:Fail to find element: LogIn Button
+ERROR:root:Fail to click : LogIn Button
+INFO:root:Element : UserName found successfully
+INFO:root:Succesfully send the key to UserName
+INFO:root:Element : Password found successfully
+INFO:root:Succesfully send the key to Password
+INFO:root:Element : LogIn Button found successfully
+INFO:root:Succesfully Clicked on LogIn Button
